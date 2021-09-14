@@ -1,0 +1,5 @@
+Notebook;3000;2
+Celular;1000;4
+Mouse;50;8
+Teclado;30;5
+Monitor;680;2
