@@ -1,0 +1,13 @@
+G:\Faculdade\4ºSemestre\LinguagemProgramacao\Aula04\EX01\bin\Debug\netcoreapp3.1\EX01.exe
+G:\Faculdade\4ºSemestre\LinguagemProgramacao\Aula04\EX01\bin\Debug\netcoreapp3.1\EX01.deps.json
+G:\Faculdade\4ºSemestre\LinguagemProgramacao\Aula04\EX01\bin\Debug\netcoreapp3.1\EX01.runtimeconfig.json
+G:\Faculdade\4ºSemestre\LinguagemProgramacao\Aula04\EX01\bin\Debug\netcoreapp3.1\EX01.runtimeconfig.dev.json
+G:\Faculdade\4ºSemestre\LinguagemProgramacao\Aula04\EX01\bin\Debug\netcoreapp3.1\EX01.dll
+G:\Faculdade\4ºSemestre\LinguagemProgramacao\Aula04\EX01\bin\Debug\netcoreapp3.1\EX01.pdb
+G:\Faculdade\4ºSemestre\LinguagemProgramacao\Aula04\EX01\obj\Debug\netcoreapp3.1\EX01.csprojAssemblyReference.cache
+G:\Faculdade\4ºSemestre\LinguagemProgramacao\Aula04\EX01\obj\Debug\netcoreapp3.1\EX01.AssemblyInfoInputs.cache
+G:\Faculdade\4ºSemestre\LinguagemProgramacao\Aula04\EX01\obj\Debug\netcoreapp3.1\EX01.AssemblyInfo.cs
+G:\Faculdade\4ºSemestre\LinguagemProgramacao\Aula04\EX01\obj\Debug\netcoreapp3.1\EX01.csproj.CoreCompileInputs.cache
+G:\Faculdade\4ºSemestre\LinguagemProgramacao\Aula04\EX01\obj\Debug\netcoreapp3.1\EX01.dll
+G:\Faculdade\4ºSemestre\LinguagemProgramacao\Aula04\EX01\obj\Debug\netcoreapp3.1\EX01.pdb
+G:\Faculdade\4ºSemestre\LinguagemProgramacao\Aula04\EX01\obj\Debug\netcoreapp3.1\EX01.genruntimeconfig.cache
