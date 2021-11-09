@@ -1,0 +1,9 @@
+Cacareco,15
+Mosquito,22
+Macaco Tião,21
+Cacareco,30
+Macaco Tião,15
+Mosquito,27
+Mosquito,22
+Macaco Tião,25
+Cacareco,31
